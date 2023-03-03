@@ -1,10 +1,6 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição do problema e os pontos a serem tratados neste projeto foram formatados a partir da participação de esportistas em encontros com membros da equipe de desenvolvimento em ambientes recreativos durante as manhas dos finais de semana. Os usuários de bike relataram suas experiencias e expectativas e os dados levantados neste processo foram consolidados na forma de personas e histórias de usuários. 
 
 ## Personas
 
@@ -28,17 +24,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Flávia dos Santos | Preciso fazer atividade física regular | Para manter meu peso controlado |
+|Flávia dos Santos | Necessito de motivação para atividade física | Tenho que manter a regularidade para não desanimar |
+|Bruno Carrasco | Propor roteiros diferentes de bike | Avaliar o nível de dificuldade e o público-alvo ideal para cada programação |
+|Bruno Carrasco | Conhecer o maior número de esportistas | Gostaria de montar uma empresa de atividade outdoor |
+|Dr. Carlos Gomes| Pedalar em grupos grandes | Me sinto mais seguro|
+|Dr. Carlos Gomes | Fazer peladas longas em parques nacionais/estaduais e reservas naturais | Quero ter contato com a natureza |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -48,7 +40,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| O usuário Promoter deverá ser capaz de cadastrar roteiros ciclísticos no site | ALTA | 
+|RF-002| O usuário Promoter deverá ser capaz de cadastrar informações básicas sobre os roteiros como: data e horario de realização e nível de dificuldade | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 ### Requisitos não Funcionais
