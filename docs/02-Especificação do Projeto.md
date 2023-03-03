@@ -7,11 +7,11 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/flavia.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/flavia.png" width=120% height=120%> <br> Foto de Edward Cisnero em Unsplash </td>
             <td colspan=2> <h1>Flávia dos Santos</h1> </td> 
         </tr>
         <tr>
-            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Engenheira Civíl, é sócia de uma empresa de projetos. <br>Por causa da alta demanda de serviço no escritório tem pouco tempo para outras coisas importantes em sua vida.</td>
+            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Engenheira Civíl, é sócia de uma empresa de projetos. </td>
             <td><strong>Objetivo:</strong><br> <ul><li>Cuidar da saúde e se divertir;<br> Conhecer novas pessoas;</li></ul></td>
         </tr>
         <tr>
@@ -27,11 +27,11 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/bruno.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/bruno.png" width=100% height=100%> <br> Foto de Edward Cisnero em Unsplash </td>
             <td colspan=2> <h1>Bruno Caldeira</h1> </td> 
         </tr>
         <tr>
-            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Professor de alemão;</td>
+            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Professor de alemão da fundação Goethe;</td>
             <td><strong>Objetivo:</strong><br> <ul><li>Propor passeios de bike;<br> Conhecer novas pessoas;</li></ul></td>
         </tr>
         <tr>
@@ -47,7 +47,7 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/carlos.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/carlos.png" width=100% height=100%> <br> Foto de Edward Cisnero em Unsplash </td>
             <td colspan=2> <h1>Dr. Carlos Gomes</h1> </td> 
         </tr>
         <tr>
