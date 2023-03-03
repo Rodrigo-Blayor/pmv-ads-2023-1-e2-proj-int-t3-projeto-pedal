@@ -2,11 +2,11 @@
 
 `CURSO: TECNÓLOGO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA: Desenvolvimento de Aplicação Web - EIXO 2`
+`DISCIPLINA: Desenvolvimento de Aplicação Web backend - EIXO 2`
 
 `SEMESTRE: 1/2023`
 
-Este projeto busca atender aos esportistas interessados em realizar roteiros ciclísticos em meio urbano e rural. Basicamente este projeto Web Back-End com banco de dados procura permitir a ligação entre os usuários.
+Este projeto busca atender aos esportistas interessados em realizar roteiros ciclísticos em meio urbano e rural. Basicamente este projeto Web backend com banco de dados procura permitir a ligação entre os usuários.
 
 Com a aplicação a categoria de usuário denominada “Promoter” disponibilizara programação de atividades em grupo ao público em geral. O interessado denominado usuário “Comum” poderá pesquisar as atividades que irão acontecer e aderir a programação. 
 
