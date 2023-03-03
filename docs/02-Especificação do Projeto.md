@@ -4,6 +4,25 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
 
 ## Personas
 
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td colspan=2> <h1>Flávia dos Santos</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Engenheira Civíl, é sócia de uma empresa de projetos. <br>Por causa da alta demanda de serviço no escritório tem pouco tempo para outras coisas importantes em sua vida.</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Cuidar da saúde e se divertir;<br> Conhecer novas pessoas;</li></ul></td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> <ul><li>Ouvir música;</li> <li>Ler bons livros;</li></li></ul></td>
+        </tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Prefere resolver todas as suas necessidades por meio da internet, no momento que puder;</li> <li>Gostaria de diversificar a atividade física que realiza no período da noite;</ul></td></tr>
+       <tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Gosta de pedalar mas se sente desmotivada por não ter companhia.</li></td></tr>
+    </tbody>
+</table>
 
 
 
