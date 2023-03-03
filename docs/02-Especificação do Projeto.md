@@ -41,15 +41,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O usuário Promoter deverá ser capaz de cadastrar roteiros ciclísticos no site | ALTA | 
-|RF-002| O usuário Promoter deverá ser capaz de cadastrar informações básicas sobre os roteiros como: data e horario de realização e nível de dificuldade | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-002| O usuário Promoter deverá ser capaz de cadastrar informações básicas sobre os roteiros, tais como: data e horario de realização e nível de dificuldade | ALTA | 
+|RF-002| O usuário Comum deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login  | MÉDIA |
+|RF-002| O usuário Comum deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login  | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deverá permitir o cadastro de roteiros ciclísticos | MÉDIA | 
+|RNF-002| O site deverá permitir a adesão do usuário comum ao roteiro desejados |  BAIXA | 
+|RNF-002| O site deverá enviar notificação ao usuário Promoter a cada adesão |  BAIXA | 
+|RNF-002| O site deverá enviar notificação ao usuário Comum, no dia anterior, a atividade programada |  BAIXA | 
+|RNF-002| O site deverá permitir pesquisa aos dados cadastrados |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
