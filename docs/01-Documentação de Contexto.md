@@ -13,27 +13,28 @@ O objetivo geral deste trabalho é o desenvolvimento de uma aplicação Web para
 Como objetivos específicos, pode-se destacar:
 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
+- Fornecer ao ciclista meio de comunicação que permita organizar passeios em grupo durante o dia e a noite;
+- Permitir a divulgação de roteiros ciclísticos com rotas estabelecidas no GoogleMaps;
+- Permitir ao esportista comum conhecer as propostas de roteiros ciclísticos e se juntar aos grupos em formação;
+- Armazenar e disponibilizar aos participantes do grupo o histórico de todos os passeios realizados bem como os envolvidos na atividade.
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Existem uma serie de aplicativos no mercado que ocupam nichos específicos para atender um ou outro objetivo.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Os aplicativos Mobile Strava e Sport Tracker determinam a distância percorrida, velocidade e armazenam o histórico dos passeios realizados. O Runtastic Mountain Bike é um aplicativo Mobile mais voltado para treinos, de maneira geral apresenta todas a funcionalidades dos apps descritos aqui e adicionalmente possui ferramentas para monitoramento de batimentos cardíacos e definição da zona de esforço físico que o atleta se encontra.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O aplicativo CycleDroid Mobile apresenta compatibilidade com o Microsoft Excel de maneira que é possível exportar as informações e visualizar os dados em gráficos e planilhas. No Bike Map o usuário determina a distância que pretende percorrer e o aplicativo sugere possíveis percurso de ciclismo.
+
+Todos estes aplicativos utilizam o Sistema de Posicionamento Global para realizar os cálculos de distância e velocidade.
+
+O aplicativo Web proposto neste trabalho vai ocupar uma lacuna que existe nos aplicativos que é a possibilidade de propor experiencia em grupo para os aficionados em bike. Em versões futuras pretende-se evoluir o Pedal para um aplicativo Mobile.
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público alvo deste aplicação Web são pessoas esportista de maneira geral que gostam de peladar. Os esportistas mais arrojados que tem iniciativa de propor percursos urbanos e trilhas aos esportistas que desejam se aventurar em jornadas noturnas, aproveitando a tranquilidade dos centros urbanos nestes períodos e em trilhas ao ar livre durante o dia. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
