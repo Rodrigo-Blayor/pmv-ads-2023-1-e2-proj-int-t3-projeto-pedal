@@ -87,9 +87,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O usuário Promoter deverá ser capaz de cadastrar roteiros ciclísticos no site | ALTA | 
-|RF-002| O usuário Promoter deverá ser capaz de cadastrar informações básicas sobre os roteiros, tais como: data e horario de realização e nível de dificuldade | ALTA | 
-|RF-002| O usuário Comum deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login  | MÉDIA |
-|RF-002| O usuário Comum deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login  | MÉDIA |
+|RF-002| O usuário Promoter deverá ser capaz de cadastrar a data e horário de realização do evento | ALTA | 
+|RF-002| O usuário Promoter deverá ser capaz de cadastrar o nível de dificuldade de cada roteiro proposto  | MÉDIA |
+|RF-002| O usuário Promoter deverá ser capaz de cadastrar o link do GoogleMaps para cada um dos roteiros  | ALTA |
+|RF-001| O usuário Comum deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login | ALTA | 
+|RF-002| O usuário Comum deverá ser capaz de fazer a adesão ao roteiro escolhido | ALTA | 
+|RF-002| O usuário Promoter deverá ser capaz de pesquisar todos os roteiros que sugeriu no site  | MÉDIA |
+|RF-002| O usuário Promoter deverá ser capaz de filtrar todas as atividades por data, grau de dificuldade e pessoas envolvidas nas atividades que realizou  | MÉDIA |
+|RF-002| O usuário Comum deverá ser capaz de pesquisar todas as atividades realizadas através do site Pedal  | MÉDIA |
 
 ### Requisitos não Funcionais
 
