@@ -7,7 +7,7 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/Flavia.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
             <td colspan=2> <h1>Flávia dos Santos</h1> </td> 
         </tr>
         <tr>
@@ -27,7 +27,7 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/Bruno.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
             <td colspan=2> <h1>Bruno Caldeira</h1> </td> 
         </tr>
         <tr>
@@ -47,7 +47,7 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/Carlos.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
             <td colspan=2> <h1>Dr. Carlos Gomes</h1> </td> 
         </tr>
         <tr>
