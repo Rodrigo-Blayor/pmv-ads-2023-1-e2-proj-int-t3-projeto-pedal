@@ -24,7 +24,45 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
     </tbody>
 </table>
 
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td colspan=2> <h1>Bruno Caldeira</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Professor de alemão;</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Propor passeios de bike;<br> Conhecer novas pessoas;</li></ul></td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> <ul><li>Fazer ginástica;</li> <li>Jogar Games;</li></li></ul></td>
+        </tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Gosta de criar roteiros diferentes de bike;</li> <li>Gostaria de reunir o maior número de pessoas e passeios de bike;</ul></td></tr>
+       <tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Não consegue reunir pessoas para seus passeios de bike;.</li></td></tr>
+    </tbody>
+</table>
 
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td colspan=2> <h1>Dr. Carlos Gomes</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 48 <br> <h4>Ocupação:</h4> Médico que atende em diversos hospitais;</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Preencher seu tempo vago com atividades físicas;<br> Conhecer novas pessoas;</li></ul></td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> <ul><li>Natação;</li> <li>Viagens;</li></li></ul></td>
+        </tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Se sente mais seguro pedalando em grupos;</td></tr>
+       <tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Não conhece roteiros de bike na zona rural;</li></td></tr>
+    </tbody>
+</table>
 
 ## Histórias de Usuários
 
@@ -34,8 +72,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Flávia dos Santos | Preciso fazer atividade física regular | Para manter meu peso controlado |
 |Flávia dos Santos | Necessito de motivação para atividade física | Tenho que manter a regularidade para não desanimar |
-|Bruno Carrasco | Propor roteiros diferentes de bike | Avaliar o nível de dificuldade e o público-alvo ideal para cada programação |
-|Bruno Carrasco | Conhecer o maior número de esportistas | Gostaria de montar uma empresa de atividade outdoor |
+|Bruno Caldeira | Propor roteiros diferentes de bike | Avaliar o nível de dificuldade e o público-alvo ideal para cada programação |
+|Bruno Caldeira | Conhecer o maior número de esportistas | Gostaria de montar uma empresa de atividade outdoor |
 |Dr. Carlos Gomes| Pedalar em grupos grandes | Me sinto mais seguro|
 |Dr. Carlos Gomes | Fazer peladas longas em parques nacionais/estaduais e reservas naturais | Quero ter contato com a natureza |
 
