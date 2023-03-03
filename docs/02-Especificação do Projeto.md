@@ -12,7 +12,7 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Engenheira Civíl, é sócia de uma empresa de projetos. </td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Cuidar da saúde e se divertir;<br> Conhecer novas pessoas;</li></ul></td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Cuidar da saúde e se divertir;</li><li>Conhecer novas pessoas;</li></ul></td>
         </tr>
         <tr>
             <td><strong>Hobbies:</strong> <ul><li>Ouvir música;</li> <li>Ler bons livros;</li></li></ul></td>
@@ -31,8 +31,8 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
             <td colspan=2> <h1>Bruno Caldeira</h1> </td> 
         </tr>
         <tr>
-            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Professor de alemão da fundação Goethe;</td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Propor passeios de bike;<br> Conhecer novas pessoas;</li></ul></td>
+            <td rowspan=2><h4>Idade:</h4> 35 <br> <h4>Ocupação:</h4> Professor de alemão da fundação Goethe;</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Propor passeios de bike para grupos;</li><li>Conhecer novas pessoas;</li></ul></td>
         </tr>
         <tr>
             <td><strong>Hobbies:</strong> <ul><li>Fazer ginástica;</li> <li>Jogar Games;</li></li></ul></td>
@@ -52,7 +52,7 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 48 <br> <h4>Ocupação:</h4> Médico que atende em diversos hospitais;</td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Preencher seu tempo vago com atividades físicas;<br> Conhecer novas pessoas;</li></ul></td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Preencher seu tempo vago com atividades físicas;</li><li> Conhecer novas pessoas;</li></ul></td>
         </tr>
         <tr>
             <td><strong>Hobbies:</strong> <ul><li>Natação;</li> <li>Viagens;</li></li></ul></td>
