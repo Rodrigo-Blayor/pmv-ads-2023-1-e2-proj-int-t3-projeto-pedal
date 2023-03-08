@@ -78,6 +78,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Dr. Carlos Caetano | Fazer peladas longas em parques nacionais/estaduais e reservas naturais | Quero ter contato com a natureza |
 |Andrea Bacelar| Preciso variar de atividade física | Meu corpo já se acomodou com as corridas  |
 |Andrea Bacelar | Preciso melhorar ainda mais minha capacidade cardiovacular | Quero me inscrever na São Silvestre |
+|Alexandre Silveira | Quero saber a quantidade de calórico gastas na atividade proposta | Para controlar minha alimentação e peso  |
+|Alexandre Silveira | Quero acompanhar meu índice de massa corporal | Para avaliar a efetividade das pedaladas na perda de peso |
 
 
 ## Requisitos
