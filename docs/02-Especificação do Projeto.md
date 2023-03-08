@@ -48,7 +48,7 @@ A definição do problema e os pontos a serem tratados neste projeto foram forma
     <tbody>
         <tr>
             <td rowspan=3> <img src="/docs/img/carlos.png" width=100% height=100%> <br> Foto de Edward Cisnero em Unsplash </td>
-            <td colspan=2> <h1>Dr. Carlos Gomes</h1> </td> 
+            <td colspan=2> <h1>Dr. Carlos Caetano</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 48 <br> <h4>Ocupação:</h4> Médico que atende em diversos hospitais;</td>
@@ -74,8 +74,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Flávia dos Santos | Necessito de motivação para atividade física | Tenho que manter a regularidade para não desanimar |
 |Bruno Caldeira | Propor roteiros diferentes de bike | Avaliar o nível de dificuldade e o público-alvo ideal para cada programação |
 |Bruno Caldeira | Conhecer o maior número de esportistas | Gostaria de montar uma empresa de atividade outdoor |
-|Dr. Carlos Gomes| Pedalar em grupos grandes | Me sinto mais seguro|
-|Dr. Carlos Gomes | Fazer peladas longas em parques nacionais/estaduais e reservas naturais | Quero ter contato com a natureza |
+|Dr. Carlos Caetano| Pedalar em grupos grandes | Me sinto mais seguro|
+|Dr. Carlos Caetano | Fazer peladas longas em parques nacionais/estaduais e reservas naturais | Quero ter contato com a natureza |
+|Andrea Bacelar| Preciso variar de atividade física | O corpo já se acostumou com corridas  |
+|Andrea Bacelar | Preciso melhorar minha ainda mais minha capacidade cardiovacular | Quero me inscrever na São Silvestre |
 
 
 ## Requisitos
