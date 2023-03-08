@@ -19,7 +19,7 @@ O aplicativo CycleDroid Mobile apresenta compatibilidade com o Microsoft Excel d
 
 Todos estes aplicativos utilizam o Sistema de Posicionamento Global para realizar os cálculos de distância e velocidade.
 
-O aplicativo Web proposto neste trabalho vai ocupar uma lacuna que existe nos aplicativos que é a possibilidade de propor experiencia em grupo para os aficionados em bike. Em versões futuras pretende-se evoluir o Pedal para um aplicativo Mobile.
+O aplicativo Web proposto neste trabalho vai ocupar uma lacuna que existe nos aplicativos que é a possibilidade de propor experiência em grupo para os aficionados em bike. Em versões futuras pretende-se evoluir o Pedal para um aplicativo Mobile.
 
 
 ## Objetivos
