@@ -34,7 +34,7 @@ Como objetivos específicos, pode-se destacar:
 
 ## Justificativa
 
-Pedalar em grupo é mais seguro uma vez que no trânsito o conjunto de bikes ocupa mais espaço, ficando desta maneira mais evidente e impondo assim mais respeito aos motoristas. É importante também no aspecto da socialização, muitas vezes o pedal em grupo extrapolam os momentos de atividade física e evoluem para amizades e até namoro. Outro aspecto importante é a empolgação, num ou noutro dia alguem está desanimado e a atividade em grupo acaba motivando as pessoas à atividade física. 
+Pedalar em grupo é mais seguro uma vez que no trânsito o conjunto de bikes ocupa mais espaço, ficando desta maneira mais evidente e impondo assim mais respeito aos motoristas. É importante também no aspecto da socialização, muitas vezes o pedal em grupo extrapolam os momentos de atividade física e evoluem para amizades e até namoro. Outro aspecto importante é a empolgação, num ou noutro dia alguem está desanimado e a atividade em grupo acaba motivando as pessoas à regularidade da atividade física. 
 
 
 ## Público-Alvo
