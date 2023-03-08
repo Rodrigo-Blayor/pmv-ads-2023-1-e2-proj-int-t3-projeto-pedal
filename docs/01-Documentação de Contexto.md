@@ -11,7 +11,7 @@ Pedalar em grupo é mais seguro uma vez que no trânsito o conjunto ocupa mais e
 
 ## Problema
 
-Existem uma serie de aplicativos no mercado que ocupam nichos específicos para atender um ou outro objetivo.
+Existem uma série de aplicativos no mercado que ocupam nichos específicos para atender um ou outro objetivo.
 
 Os aplicativos Mobile Strava e Sport Tracker determinam a distância percorrida, velocidade e armazenam o histórico dos passeios realizados. O Runtastic Mountain Bike é um aplicativo Mobile mais voltado para treinos, de maneira geral apresenta todas a funcionalidades dos apps descritos aqui e adicionalmente possui ferramentas para monitoramento de batimentos cardíacos e definição da zona de esforço físico que o atleta se encontra.
 
