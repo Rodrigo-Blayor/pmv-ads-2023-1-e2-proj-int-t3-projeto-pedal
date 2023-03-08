@@ -76,8 +76,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Bruno Caldeira | Conhecer o maior número de esportistas | Gostaria de montar uma empresa de atividade outdoor |
 |Dr. Carlos Caetano| Pedalar em grupos grandes | Me sinto mais seguro|
 |Dr. Carlos Caetano | Fazer peladas longas em parques nacionais/estaduais e reservas naturais | Quero ter contato com a natureza |
-|Andrea Bacelar| Preciso variar de atividade física | O corpo já se acostumou com corridas  |
-|Andrea Bacelar | Preciso melhorar minha ainda mais minha capacidade cardiovacular | Quero me inscrever na São Silvestre |
+|Andrea Bacelar| Preciso variar de atividade física | Meu corpo já se acomodou com as corridas  |
+|Andrea Bacelar | Preciso melhorar ainda mais minha capacidade cardiovacular | Quero me inscrever na São Silvestre |
 
 
 ## Requisitos
