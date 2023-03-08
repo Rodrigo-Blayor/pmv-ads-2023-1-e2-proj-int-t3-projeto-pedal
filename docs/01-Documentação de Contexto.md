@@ -27,9 +27,9 @@ O objetivo geral deste trabalho é o desenvolvimento de uma aplicação Web para
 Como objetivos específicos, pode-se destacar:
 
 - Fornecer ao ciclista meio de comunicação que permita organizar passeios em grupo durante o dia e a noite;
-- Permitir a divulgação de roteiros ciclísticos com rotas estabelecidas no GoogleMaps;
 - Permitir ao esportista comum conhecer as propostas de roteiros ciclísticos e se juntar aos grupos em formação;
-- Armazenar e disponibilizar aos participantes do grupo o histórico de todos os passeios realizados bem como os envolvidos na atividade.
+- Armazenar e disponibilizar aos participantes do grupo o histórico de todos os passeios realizados bem como os envolvidos na atividade;
+- Permitir a visualização do roteiros ciclísticos com rotas estabelecidas através de link para o GoogleMaps;
 
 
 ## Justificativa
