@@ -30,6 +30,7 @@ Como objetivos específicos, pode-se destacar:
 - Permitir ao esportista comum conhecer as propostas de roteiros ciclísticos e se juntar aos grupos em formação;
 - Armazenar e disponibilizar aos participantes do grupo o histórico de todos os passeios realizados bem como os envolvidos na atividade;
 - Permitir a visualização do roteiros ciclísticos com rotas estabelecidas através de link para o GoogleMaps;
+- Mostrar para o usuario o seu índice de massa corporal atual e a quantidade aproximada de calorias gastas em alguma atividade realizada;
 
 
 ## Justificativa
