@@ -8,7 +8,7 @@
 
 Este projeto busca atender aos esportistas interessados em realizar roteiros ciclísticos em meio urbano e rural. Basicamente este projeto Web backend com banco de dados procura permitir a ligação entre os usuários.
 
-Com a aplicação o usuário poderá cadastrar roteiros para passeios ciclisticos em grupo. Os usuarios interessados poderão pesquisar e realizar adesão as atividades programadas. Este aplicativo web permitirá ainda ao usuário realizar pesquisa sobre as atividades realizadas além de obter informações sobre a índice de massa corporal e gasto energético individual em cada atividade.
+Com a aplicação o usuário poderá cadastrar roteiros para passeios ciclisticos em grupo. Os usuarios interessados poderão pesquisar e realizar adesão as atividades programadas. Este aplicativo Web permitirá ainda ao usuário realizar pesquisa sobre as atividades realizadas além de obter informações sobre a índice de massa corporal e gasto energético individual em cada atividade.
 
 Esta ferramenta da ciência aos interessados dos passeios ciclísticos que estão programados, sem custo financeiro algum, estimulando assim a atividade física regular e promovendo a integração dos esportistas.  
 
