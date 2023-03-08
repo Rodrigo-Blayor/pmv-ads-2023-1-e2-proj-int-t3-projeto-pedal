@@ -90,12 +90,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O usuário deverá ser capaz de propor roteiros ciclísticos no site | ALTA | 
-|RF-002| O usuário deverá ser capaz de cadastrar informações sobre o roteiro, tais como: local, data, horário, ponto de encontro e grau de dificuldadea | ALTA | 
-|RF-003| O usuário deverá ser capaz de cadastrar o link do GoogleMaps para cada um dos roteiros  | ALTA |
+|RF-001| O usuário proponente deverá ser capaz de propor roteiros ciclísticos no site | ALTA | 
+|RF-002| O usuário proponente deverá ser capaz de cadastrar informações sobre o roteiro, tais como: local, data, horário, ponto de encontro e grau de dificuldadea | ALTA | 
+|RF-003| O usuário proponente deverá ser capaz de cadastrar o link do GoogleMaps para cada um dos roteiros  | ALTA |
 |RF-004| O usuário deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login | ALTA | 
 |RF-005| O usuário deverá ser capaz de fazer a adesão a determinado roteiro escolhido | ALTA |
-|RF-006| O usuário deverá ser capaz de cancelar determinado roteiro escolhido | ALTA |
+|RF-006| O usuário proponente deverá ser capaz de cancelar determinado roteiro escolhido | ALTA |
 |RF-007| O usuário deverá ser capaz de verificar os roterios que já realizou | MÉDIA |
 |RF-008| O usuário deverá ser capaz de verificar o colegas mais frequentes de pedalada | MÉDIA |
 |RF-009| O usuário deverá ser capaz de verificar o seu indice de massa corporal | MÉDIA |
