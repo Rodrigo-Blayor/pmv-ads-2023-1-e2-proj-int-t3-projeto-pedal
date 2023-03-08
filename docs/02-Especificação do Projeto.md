@@ -90,25 +90,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O usuário Promoter deverá ser capaz de cadastrar roteiros ciclísticos no site | ALTA | 
-|RF-002| O usuário Promoter deverá ser capaz de cadastrar a data e horário de realização do evento | ALTA | 
-|RF-002| O usuário Promoter deverá ser capaz de cadastrar o nível de dificuldade de cada roteiro proposto  | MÉDIA |
-|RF-002| O usuário Promoter deverá ser capaz de cadastrar o link do GoogleMaps para cada um dos roteiros  | ALTA |
-|RF-001| O usuário Comum deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login | ALTA | 
-|RF-002| O usuário Comum deverá ser capaz de fazer a adesão ao roteiro escolhido | ALTA | 
-|RF-002| O usuário Promoter deverá ser capaz de pesquisar todos os roteiros que sugeriu no site  | MÉDIA |
-|RF-002| O usuário Promoter deverá ser capaz de filtrar todas as atividades por data, grau de dificuldade e pessoas envolvidas nas atividades que realizou  | MÉDIA |
-|RF-002| O usuário Comum deverá ser capaz de pesquisar todas as atividades realizadas através do site Pedal  | MÉDIA |
+|RF-001| O usuário deverá ser capaz de propor roteiros ciclísticos no site | ALTA | 
+|RF-002| O usuário deverá ser capaz de cadastrar informações sobre o roteiro, tais como: local, data, horário, ponto de encontro e grau de dificuldadea | ALTA | 
+|RF-003| O usuário deverá ser capaz de cadastrar o link do GoogleMaps para cada um dos roteiros  | ALTA |
+|RF-004| O usuário deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login | ALTA | 
+|RF-005| O usuário deverá ser capaz de fazer a adesão a determinado roteiro escolhido | ALTA |
+|RF-006| O usuário deverá ser capaz de cancelar determinado roteiro escolhido | ALTA |
+|RF-007| O usuário deverá ser capaz de verificar os roterios que já realizou | MÉDIA |
+|RF-008| O usuário deverá ser capaz de verificar o colegas mais frequentes de pedalada | MÉDIA |
+|RF-009| O usuário deverá ser capaz de verificar o seu indice de massa corporal | MÉDIA |
+|RF-010| O usuário deverá ser capaz de verificar o seu gasto energético após a atividade | MÉDIA |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deverá permitir o cadastro de roteiros ciclísticos | MÉDIA | 
-|RNF-002| O site deverá permitir a adesão do usuário comum ao roteiro desejados |  BAIXA | 
-|RNF-002| O site deverá enviar notificação ao usuário Promoter a cada adesão |  BAIXA | 
-|RNF-002| O site deverá enviar notificação ao usuário Comum, no dia anterior, a atividade programada |  BAIXA | 
-|RNF-002| O site deverá permitir pesquisa aos dados cadastrados |  BAIXA | 
+|RNF-001| O site deverá permitir o cadastro de roteiros ciclísticos | ALTA | 
+|RNF-002| O site deverá permitir a adesão do usuário ao roteiro desejados | ALTA | 
+|RNF-002| O site deverá enviar notificação ao usuário proponente a cada adesão |  MÉDIA | 
+|RNF-002| O site deverá permitir pesquisa aos dados cadastrados | MÉDIA | 
+|RNF-002| O site deverá calcular o índice de massa corporal | BAIXA | 
+|RNF-002| O site deverá calcular o gasto calórico para determinado usuário | BAIXA | 
 
 
 ## Restrições
