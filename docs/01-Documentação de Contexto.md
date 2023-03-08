@@ -1,6 +1,13 @@
 # Introdução
 
-Definir a Introdução
+A prática regular de atividade física está intimamente relacionada com a nossa qualidade de vida. Muitos Estudos científicos mostram que a atividade física frequente aumenta a imunidade orgânica, diminuindo a incidência de doenças e contribui para melhora da disposição para realização das tarefas diárias.
+
+A atividade física regular auxilia no aumento da produção do neurotransmissor serotonina, que está diretamente relacionado com algumas funções orgânicas como regulação do sono e desempenho das funções cognitivas, além de auxiliar na manutenção do bom humor e sensação de bem estar.
+
+Andar de bicicleta é uma atividade essencialmente aeróbica e desta maneira contribui para o fortalecimento do sistema cardiovascular e perda de peso, além de prevenir câncer, diabetes, artrite e osteoporose, dentre outras doenças.
+
+Pedalar em grupo é mais seguro uma vez que no trânsito o conjunto ocupa mais espaço, ficando desta maneira mais evidente e impondo assim mais respeito aos motoristas. É importante também no aspecto da socialização, muitas vezes as amizades estabelecidas extrapolam o grupo de pedal. Outro aspecto importante é a empolgação, muitas vezes um ou outro está desanimado e a atividade em grupo acaba motivando as pessoas à atividade física.    
+
 
 ## Problema
 Definir o problema
