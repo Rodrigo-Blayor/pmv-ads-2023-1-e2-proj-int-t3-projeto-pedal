@@ -1,10 +1,12 @@
 # Introdução
 
-A prática regular de atividade física está intimamente relacionada com a nossa qualidade de vida. Muitos Estudos científicos mostram que a atividade física frequente aumenta a imunidade orgânica, diminuindo a incidência de doenças e contribui para melhora da disposição para realização das tarefas diárias (SANTOS, 2023).
+A prática regular de atividade física está intimamente relacionada com a nossa qualidade de vida. Muitos estudos científicos mostram que a atividade física frequente aumenta a imunidade orgânica, diminuindo a incidência de doenças e contribui para melhora da disposição para realização das tarefas diárias (SANTOS, 2023).
 
 A atividade física regular auxilia no aumento da produção do neurotransmissor serotonina, que está diretamente relacionado com algumas funções orgânicas como regulação do sono e desempenho das funções cognitivas, além de auxiliar na manutenção do bom humor e sensação de bem estar (REAIS, 2021).
 
-Andar de bicicleta é uma atividade essencialmente aeróbica e desta maneira contribui para o fortalecimento do sistema cardiovascular e perda de peso, além de prevenir câncer, diabetes, artrite e osteoporose, dentre outras doenças (SANTANA, 2022).   
+Andar de bicicleta é uma atividade essencialmente aeróbica e desta maneira contribui para o fortalecimento do sistema cardiovascular e perda de peso, além de prevenir câncer, diabetes, artrite e osteoporose, dentre outras doenças (SANTANA, 2022).
+
+A queima calórica varia de acordo com a atividade física escolhida. O Equivalente Metabólico da Tarefa (MET) é um valor que determina o gasto calórico de uma atividade e é influenciado pela intensidade da atividade e tempo de duração (CANSANÇÃO, 2022). Outra informação importante que auxilia na avaliação da efetiviadade da atividade física é o controle regular do Índice de Massa Corporea. Estes dois indicadores e uma dieta controlada podem efetivamente contribuir para perda de peso durante as pedaladas. 
 
 
 ## Problema
