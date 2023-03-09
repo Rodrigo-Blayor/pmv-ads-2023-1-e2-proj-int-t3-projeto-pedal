@@ -1,10 +1,10 @@
 # Introdução
 
-A prática regular de atividade física está intimamente relacionada com a nossa qualidade de vida. Muitos Estudos científicos mostram que a atividade física frequente aumenta a imunidade orgânica, diminuindo a incidência de doenças e contribui para melhora da disposição para realização das tarefas diárias.
+A prática regular de atividade física está intimamente relacionada com a nossa qualidade de vida. Muitos Estudos científicos mostram que a atividade física frequente aumenta a imunidade orgânica, diminuindo a incidência de doenças e contribui para melhora da disposição para realização das tarefas diárias (SANTOS, 2023).
 
-A atividade física regular auxilia no aumento da produção do neurotransmissor serotonina, que está diretamente relacionado com algumas funções orgânicas como regulação do sono e desempenho das funções cognitivas, além de auxiliar na manutenção do bom humor e sensação de bem estar.
+A atividade física regular auxilia no aumento da produção do neurotransmissor serotonina, que está diretamente relacionado com algumas funções orgânicas como regulação do sono e desempenho das funções cognitivas, além de auxiliar na manutenção do bom humor e sensação de bem estar (REAIS, 2021).
 
-Andar de bicicleta é uma atividade essencialmente aeróbica e desta maneira contribui para o fortalecimento do sistema cardiovascular e perda de peso, além de prevenir câncer, diabetes, artrite e osteoporose, dentre outras doenças.   
+Andar de bicicleta é uma atividade essencialmente aeróbica e desta maneira contribui para o fortalecimento do sistema cardiovascular e perda de peso, além de prevenir câncer, diabetes, artrite e osteoporose, dentre outras doenças (SANTANA, 2022).   
 
 
 ## Problema
@@ -35,7 +35,7 @@ Como objetivos específicos, pode-se destacar:
 
 ## Justificativa
 
-Pedalar em grupo é mais seguro uma vez que no trânsito o conjunto de bikes ocupa mais espaço, ficando desta maneira mais evidente e impondo assim mais respeito aos motoristas. É importante também no aspecto da socialização, muitas vezes o pedal em grupo extrapolam os momentos de atividade física e evoluem para amizades e até namoro. Outro aspecto importante é a empolgação, num ou noutro dia alguem está desanimado e a atividade em grupo acaba motivando as pessoas à regularidade da atividade física. 
+Pedalar em grupo é mais seguro uma vez que no trânsito o conjunto de bikes ocupa mais espaço, ficando desta maneira mais evidente e impondo assim mais respeito aos motoristas. É importante também no aspecto da socialização, muitas vezes o pedal em grupo extrapolam os momentos de atividade física e evoluem para amizades e até namoro (SCHETINO, 2022). Outro aspecto importante é a empolgação, num ou noutro dia alguem está desanimado e a atividade em grupo acaba motivando as pessoas à regularidade da atividade física. 
 
 
 ## Público-Alvo
