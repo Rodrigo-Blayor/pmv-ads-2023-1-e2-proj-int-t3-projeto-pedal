@@ -6,9 +6,9 @@
 
 `SEMESTRE: 1/2023`
 
-Este projeto busca atender aos esportistas interessados em realizar roteiros ciclísticos em meio urbano e rural. Basicamente este projeto Web backend com banco de dados procura permitir a ligação entre os usuários.
+Este projeto busca atender aos esportistas interessados em realizar roteiros ciclísticos em meio urbano e rural. Basicamente este projeto backend com banco de dados procura permitir a ligação entre seus usuários.
 
-Com a aplicação o usuário poderá cadastrar roteiros para passeios ciclisticos em grupo. Os usuarios interessados poderão pesquisar e realizar adesão as atividades programadas. Este aplicativo Web permitirá ainda ao usuário realizar pesquisa sobre as atividades realizadas além de obter informações sobre a índice de massa corporal e gasto energético individual em cada atividade.
+Com a aplicação o usuário poderá cadastrar roteiros para passeios ciclísticos em grupo. Os usuários interessados poderão pesquisar e realizar adesão às atividades programadas. Esta aplicação backend permitirá ainda que o usuário realize pesquisa a fim de encontrar atividades que serão realizadas além de obter informações sobre o índice de massa corporal e gasto energético individual em cada atividade.
 
 Esta ferramenta da ciência aos interessados dos passeios ciclísticos que estão programados, sem custo financeiro algum, estimulando assim a atividade física regular e promovendo a integração dos esportistas.  
 
@@ -21,6 +21,7 @@ Esta ferramenta da ciência aos interessados dos passeios ciclísticos que estã
 * Gabriella Bradley Cusnir
 * Leonardo Rodrigues Barbosa Maia
 * Mariana Rodrigues de Souza
+* Rodrigo da Cunha Gatti
 
 
 ## Orientador
