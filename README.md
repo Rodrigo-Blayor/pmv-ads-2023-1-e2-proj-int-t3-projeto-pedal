@@ -8,9 +8,9 @@
 
 Este projeto busca atender aos esportistas interessados em realizar roteiros ciclísticos em meio urbano e rural. Basicamente este projeto Web backend com banco de dados procura permitir a ligação entre os usuários.
 
-Com a aplicação o usuário poderá cadastrar roteiros para passeios ciclisticos em grupo. Os usuarios interessados poderão pesquisar e realizar adesão as atividades programadas. Este aplicativo Web permitirá ainda ao usuário realizar pesquisa sobre as atividades realizadas além de obter informações sobre a índice de massa corporal e gasto energético individual em cada atividade.
+Com a aplicação o usuário poderá cadastrar roteiros para passeios ciclísticos em grupo. Os usuários interessados poderão pesquisar e aderir às atividades programadas. Este aplicativo Web também permitirá ao usuário realizar pesquisa sobre as atividades que serão realizadas além de obter informações sobre o índice de massa corporal e gasto energético individual em cada atividade.
 
-Esta ferramenta da ciência aos interessados dos passeios ciclísticos que estão programados, sem custo financeiro algum, estimulando assim a atividade física regular e promovendo a integração dos esportistas.  
+Esta ferramenta da ciência aos interessados nos passeios ciclísticos que estão programados, não tem custo financeiro algum, estimulando assim a atividade física regular e promovendo a integração entre os esportistas.  
 
 
 ## Integrantes
@@ -21,6 +21,7 @@ Esta ferramenta da ciência aos interessados dos passeios ciclísticos que estã
 * Gabriella Bradley Cusnir
 * Leonardo Rodrigues Barbosa Maia
 * Mariana Rodrigues de Souza
+* Rodrigo da Cunha Gatti
 
 
 ## Orientador
@@ -29,7 +30,7 @@ Esta ferramenta da ciência aos interessados dos passeios ciclísticos que estã
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+A primeira versão do sistema que for disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
 
